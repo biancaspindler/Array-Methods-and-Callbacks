@@ -20,7 +20,7 @@ Investigate the data above. Practice accessing data by console.log-ing the follo
 Create a function called  getFinals that takes `data` as an argument and returns an array of objects with only finals data */
 
 function getFinals(  ) {
-   /* code here */
+
 }
 
 
